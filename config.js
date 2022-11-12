@@ -1,10 +1,8 @@
 const CONFIG = {
     titleWeb: "Dành riêng cho thanh trúc",
     introTitle: 'Thanh trúc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Tại sao cậu cute zậy 
+    cậu làm tớ nhớ đến cậu mọi lúc mọi nơi :))`,
     btnIntro: '^^HeHe^^',
     title: 'Tình yêu tớ dành cho cậu nhiều vô biên',
     desc: 'cậu là tia nắng ấm áp trong cuộc đời tớ ',
